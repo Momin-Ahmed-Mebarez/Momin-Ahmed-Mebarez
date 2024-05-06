@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Momin Ahmed Mebarez
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning networking and secuirty
